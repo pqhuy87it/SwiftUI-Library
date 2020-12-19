@@ -8,3 +8,7 @@ https://github.com/nalexn/EnvironmentOverrides/tree/master/Sources/EnvironmentOv
 
 ![](https://github.com/nalexn/blob_files/raw/master/images/EnvironmentOverrides.gif?raw=true)
 
+https://github.com/TimurKhay/MacSettings
+
+![](https://github.com/TimurKhay/MacSettings/raw/main/Resources/settings.gif)
+
