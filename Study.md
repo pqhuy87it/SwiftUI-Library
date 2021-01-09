@@ -25,3 +25,7 @@ Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animat
 https://github.com/CypherPoet/100-days-of-swiftui-and-combine
 
 ![](https://github.com/CypherPoet/100-days-of-swiftui-and-combine/raw/master/day-016/projects/WeSplit/Screenshots/recording-1.gif)
+
+https://github.com/jordansinger/SwiftUI-Kit
+
+![](https://user-images.githubusercontent.com/110813/87210295-00806280-c2e3-11ea-91e3-4ea6da79f73e.png)
