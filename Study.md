@@ -29,3 +29,8 @@ https://github.com/CypherPoet/100-days-of-swiftui-and-combine
 https://github.com/jordansinger/SwiftUI-Kit
 
 ![](https://user-images.githubusercontent.com/110813/87210295-00806280-c2e3-11ea-91e3-4ea6da79f73e.png)
+
+https://github.com/FradSer/30-days-of-swiftui
+
+![](https://github.com/FradSer/30-days-of-swiftui/raw/master/docs/assets/images/github-social-preview.png)
+
