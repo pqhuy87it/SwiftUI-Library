@@ -35,3 +35,5 @@ https://github.com/FradSer/30-days-of-swiftui
 ![](https://github.com/FradSer/30-days-of-swiftui/raw/master/docs/assets/images/github-social-preview.png)
 
 https://github.com/SatoTakeshiX/SwiftUICatalog
+
+https://github.com/kamilpowalowski/swiftwombat-projects
