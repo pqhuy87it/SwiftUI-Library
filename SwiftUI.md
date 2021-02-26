@@ -18,6 +18,10 @@ https://github.com/carson-katri/reddit-swiftui
 
 ![](https://github.com/carson-katri/reddit-swiftui/raw/master/Resources/banner.jpeg)
 
+https://github.com/heckj/swiftui-notes
+
+![](https://raw.githubusercontent.com/heckj/swiftui-notes/master/Assets/Images/UsingCombineWithSwiftGitHubSocial.png)
+
 https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet
 
 https://github.com/Blackjacx/WWDC
