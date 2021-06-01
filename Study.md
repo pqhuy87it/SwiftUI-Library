@@ -43,3 +43,8 @@ https://github.com/kamilpowalowski/swiftwombat-projects
 https://github.com/anupamchugh/iowncode
 
 A curated collection of iOS, ML, AR resources sprinkled with some UI additions
+
+### swiftui-data-flow
+https://github.com/trozware/swiftui-data-flow
+
+Demonstrating multiple ways of passing data around a SwiftUI app.
