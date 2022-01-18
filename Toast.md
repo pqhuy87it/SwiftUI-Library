@@ -11,3 +11,7 @@ https://github.com/elai950/AlertToast
 ### SwiftUIKit
 
 https://github.com/danielsaidi/SwiftUIKit
+
+### SimpleToast
+
+https://github.com/sanzaru/SimpleToast
